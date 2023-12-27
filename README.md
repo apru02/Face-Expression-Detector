@@ -37,7 +37,7 @@ The model classifies emotions into the following classes:
 - Neutral
 - Sad
 - Surprise
-- 
+
 Additional Notes
 The emotion prediction is displayed in real-time on the webcam feed.
 Press 'q' to exit the application.
