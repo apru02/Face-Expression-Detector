@@ -38,7 +38,9 @@ The model classifies emotions into the following classes:
 - Sad
 - Surprise
 
-Additional Notes
+Additional Notes:
 The emotion prediction is displayed in real-time on the webcam feed.
 Press 'q' to exit the application.
+
+- Download the training and validation dataset from [here](https://www.kaggle.com/datasets/jangedoo/utkface-new)
 
