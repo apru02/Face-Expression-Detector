@@ -20,8 +20,8 @@ pip install numpy matplotlib opencv-python tensorflow pywavelets
 ## Usage
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/apru02/Face-Expression-Detector.git
+   cd Face-Expression-Detector
    ```
 2. Run the face_detect.py script:
    ```bash
